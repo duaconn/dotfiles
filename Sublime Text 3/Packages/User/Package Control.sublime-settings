@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"RuboCop",
+		"RubyToggleString",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Theme - Soda SolarizedDark"
+	]
+}

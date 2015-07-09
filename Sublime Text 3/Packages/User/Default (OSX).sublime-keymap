@@ -1,0 +1,6 @@
+[
+  { "keys": ["command+'"], "command": "ruby_toggle_string" },
+  { "keys": ["command+;"], "command": "ruby_toggle_string_and_symbol" },
+  { "keys": ["command+shift+;"], "command": "ruby_toggle_hash_symbol" },
+  { "keys": ["command+shift+c"], "command": "rubocop_auto_correct" }
+]
